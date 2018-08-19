@@ -49,3 +49,17 @@
 - JavaScriptによるデータビジュアリゼーション入門
 - エンジニアのためのデータ可視化実践入門
 
+## TypeScript
+- はじめてのTypeScript
+- TypeScript 実践プログラミング
+- TypeScript 実践マスター
+- Angular2によるモダンWeb開発
+- Angularデベロッパーズガイド
+- Angular CLIがわかる本
+- Ionicモバイルアプリ制作入門
+
+## C\#
+- C\#プログラミングのイディオム/定石&パターン
+- More Effective C\# 6.0/7.0
+
+
