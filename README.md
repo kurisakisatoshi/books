@@ -27,4 +27,25 @@
 - プログラミング GROOVY
 - Groovy イン・アクション
 
+## JavaScript
+- JavaScriptパターン
+- JavaScript: The Good Parts
+- JavaScript本格入門
+- 開眼! JavaScript
+- 初めてのJavaScript 第3版
+- オブジェクト指向 JavaScript
+- JavaScriptで学ぶ関数型プログラミング
+- メンテナブルJavaScript
+- Effective JavaScript
+- JavaScriptリファレンス 第6版
+- 関数型プログラミングの基礎
+- JavaScript関数型プログラミング
+- jQueryクックブック
+- Nodeクックブック
+- 速習 Webpack
+- 逆引きWebpack
+- Reactビギナーズガイド
+- AnjurarJSアプリケーション開発ガイド
+- JavaScriptによるデータビジュアリゼーション入門
+- エンジニアのためのデータ可視化実践入門
 
